@@ -1,10 +1,10 @@
-# 📊 Classification Using Logistic Regression
+#  Classification Using Logistic Regression
 
 A machine learning project that demonstrates the implementation of **Logistic Regression** for binary classification using **Python** and **Scikit-learn**. The project covers the complete machine learning workflow, including data preprocessing, model training, prediction, and performance evaluation.
 
 ---
 
-## 📖 Overview
+##  Overview
 
 Logistic Regression is one of the most widely used supervised machine learning algorithms for classification problems. This project illustrates how to build, train, and evaluate a Logistic Regression model on a real-world dataset using Python.
 
@@ -12,7 +12,7 @@ The notebook follows a structured workflow suitable for beginners as well as tho
 
 ---
 
-## ✨ Features
+##  Features
 
 * Data loading and preprocessing
 * Exploratory Data Analysis (EDA)
@@ -25,7 +25,7 @@ The notebook follows a structured workflow suitable for beginners as well as tho
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology       | Purpose                   |
 | ---------------- | ------------------------- |
@@ -39,7 +39,7 @@ The notebook follows a structured workflow suitable for beginners as well as tho
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Classification-Using-Logistic-Regression/
@@ -52,7 +52,7 @@ Classification-Using-Logistic-Regression/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the Repository
 
@@ -82,7 +82,7 @@ Open **Logistic regression.ipynb** and execute all cells.
 
 ---
 
-## 📈 Machine Learning Workflow
+##  Machine Learning Workflow
 
 * Import required libraries
 * Load the dataset
@@ -96,7 +96,7 @@ Open **Logistic regression.ipynb** and execute all cells.
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 The model performance is evaluated using:
 
@@ -109,7 +109,7 @@ The model performance is evaluated using:
 
 ---
 
-## 📚 Libraries Used
+##  Libraries Used
 
 ```python
 import numpy as np
@@ -128,7 +128,7 @@ from sklearn.metrics import (
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 After completing this project, you will understand:
 
@@ -143,7 +143,7 @@ After completing this project, you will understand:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Hyperparameter tuning
 * Feature engineering
@@ -153,7 +153,7 @@ After completing this project, you will understand:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, suggestions, and improvements are welcome.
 
@@ -165,13 +165,13 @@ Contributions, suggestions, and improvements are welcome.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shaik Pardi**
 
