@@ -14,7 +14,7 @@ The notebook follows a structured workflow suitable for beginners as well as tho
 
 ##  Features
 
-* Data loading and preprocessing
+* Data loading and preprocessing.
 * Exploratory Data Analysis (EDA)
 * Feature selection
 * Train-test data splitting
