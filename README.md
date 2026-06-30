@@ -16,7 +16,7 @@ The notebook follows a structured workflow suitable for beginners as well as tho
 
 * Data loading and preprocessing.
 * Exploratory Data Analysis (EDA).
-* Feature selection
+* Feature selection.
 * Train-test data splitting
 * Logistic Regression model implementation
 * Model prediction
