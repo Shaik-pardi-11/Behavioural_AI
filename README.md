@@ -6,7 +6,7 @@ A machine learning project that demonstrates the implementation of **Logistic Re
 
 ##  Overview
 
-Logistic Regression is one of the most widely used supervised machine learning algorithms for classification problems. This project illustrates how to build, train, and evaluate a Logistic Regression model on a real-world dataset using Python..
+Logistic Regression is one of the most widely used supervised machine learning algorithms for classification problems. This project illustrates how to build, train, and evaluate a Logistic Regression model on a real-world dataset using Python.
 
 The notebook follows a structured workflow suitable for beginners as well as those looking to understand the fundamentals of classification models..
 
